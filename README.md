@@ -1,10 +1,10 @@
 ```mermaid
 ---
 config:
-  theme: mc
+  theme: base
   layout: fixed
 ---
-flowchart LR
+flowchart
 %%  subgraph FB1["Fallback"]
 %%         F1{"Primary #2<br>available?"}
 %%         F2["Select Primary #2<br>Next non-Manual held"]
